@@ -1,21 +1,21 @@
 {
-  "title": "hax11ty",
-  "url": "https://hax11ty.com/",
+  "title": "11ty",
+  "url": "https://11ty.com/",
   "language": "en",
-  "description": "blog for hax11ty",
+  "description": "blog for 11ty",
   "feed": {
-    "subtitle": "blog for hax11ty",
+    "subtitle": "blog for 11ty",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://hax11ty.com/"
+    "id": "https://11ty.com/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://hax11ty.com/feed/feed.json"
+    "url": "https://11ty.com/feed/feed.json"
   },
   "author": {
     "name": "Taylor Bracone",
     "email": "tdb5457@psu.edu",
-    "url": "https://hax11ty.com/about-me/"
+    "url": "https://11ty.com/about-me/"
   }
 }
