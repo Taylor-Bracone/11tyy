@@ -1,21 +1,21 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
+  "title": "hax11ty",
+  "url": "https://hax11ty.com/",
   "language": "en",
-  "description": "Minimalist dark mode blog starter template for 11ty",
+  "description": "blog for hax11ty",
   "feed": {
-    "subtitle": "Minimalist dark mode blog starter template for 11ty",
+    "subtitle": "blog for hax11ty",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://hax11ty.com/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://hax11ty.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Taylor Bracone",
+    "email": "tdb5457@psu.edu",
+    "url": "https://hax11ty.com/about-me/"
   }
 }

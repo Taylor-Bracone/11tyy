@@ -1,5 +1,5 @@
 ---
-title: Markdown Guide
+title: My Markdown Guide
 description: Sample markdown syntax
 date: 2021-08-05
 tags: guide

@@ -1,30 +1,32 @@
 ---
-title: This is my third post.
-description: This is a post on My Blog about win-win survival strategies.
-date: 2021-08-03
+title: Disneyland but Different
+description: Ever wonder if you can do anything? Yes!
+date: 2021-11-05
 tags:
-  - second tag
-  - posts with two tags
+  - open source
+  - awesome sauce
 layout: layouts/post.njk
 ---
+###The Idea: What Would It Do??
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+If I could build an app of any kind, the first thing that comes to mind pertains to wait times for ordering food. Just like Disney has wait times for rides, food service places should have wait times for lines to order food. Especially in a college town, **time is money**, so to limit the amount of time waiting would be **priceless**. Some could argue order ahead, but that is not always the case or an option for certain establishments.
 
-```js/2/4
-// this is a command
-function myCommand() {
-	let counter = 0;
+###Who Would It Be Used For?
 
-	counter++;
+This application would be used for the time efficient human being, college student, or working class. It really would be used by anyone universally. If you believe time is money, this application is for you.
 
-}
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hqdonevimte6lhkc8iax.png)
 
-// Test with a line break above this line.
-console.log('Test');
-```
+###How Would They Use It? How Would You Use It?
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+The restaurant, during business hours, will show up on the application with the wait time if you were to get online and order at the restaurant. If it were closed, it would merely say check back later- closed. This is very dear to my heart because ever since I got to college I realized that my **time** is slim and should not be wasted when I am able to work around it. The other day, I was at Chipotle where the line was pretty short. It was deceiving. From the time I got on line to the time I was able to pay with my food was upwards to an hour. Unnecessary pain. That was insane especially when there are places locally that make similar foods such as El Jefe’s or even Yallah Taco a block or two away. Universally, I think this would be very helpful for an average person that wants **time** back in their life, very few people do not fall in this category.
 
-## Section Header
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/47lty3q659396dde041v.png)
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+###If Money was No Concern, Time No Concern; What Would You do With Your Life and the Skills You've Assembled if you Could Dedicate it to One Thing? 
+
+This is a question that has been asked of me many times and sometimes haunts me in my sleep (in a good way). What it boils down to is I want to help people and make people’s lives easier in any way possible through technology. Through the courses that I have taken and will be taking throughout my college career, I believe have set me in the right direction on this path. I also still feel like I have more to learn especially about myself.
+
+When I first entered college, I came in as a Computer Science major in the College of Engineering at Penn State. Shortly thereafter, I got a job as a research assistant/developer and really found myself. I loved the project I was on and the impact that I was making on someone's life. As Winston Churchill once said, *"if you find a job you love, you'll never work again....*" 
+
+My current major in the College of Information Sciences and Technology is *Human-Centered Design and Development*. The main difference to me is that I get the overall design thinking model: emphasize, define, ideate, prototype, and test. Basically, who are you solving this for, what do they specifically need, how will you solve this matter, and why does it work for them moving forward are the key questions. Helping people with technology has been a constant and dedication of mine.
